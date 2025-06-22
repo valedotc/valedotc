@@ -1,6 +1,6 @@
 # Hi, I'm Valerio 👋
 
-Software Engineering Student at [University of Trento](https://www.unitn.it/) with a passion for low-level programming and embedded systems.
+Software Engineering Student at [**University of Trento**](https://www.unitn.it/) with a passion for low-level programming and embedded systems.
 
 ## 🔧 What I'm into
 - **Low-level programming** in C/C++
